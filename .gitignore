@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+py3_12/
+
+# Environment / secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/cache/
+
+# Local data / exports
+data/
+reports/
+downloads/
+*.csv
+*.xlsx
+
+# Logs
+*.log
