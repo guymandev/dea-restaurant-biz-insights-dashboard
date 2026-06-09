@@ -14,6 +14,12 @@ Main data pipeline repository:
 
 [Restaurant Business Insights Pipeline](https://github.com/guymandev/dea-restaurant-biz-insights)
 
+## Dashboard Screenshots
+
+Dashboard screenshots are available here:
+
+[View dashboard screenshot gallery](docs/dashboard_screenshots.md)
+
 ## Architecture
 
 The Streamlit app is the final presentation layer in the end-to-end restaurant analytics platform.
